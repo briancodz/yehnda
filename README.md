@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on any projects that will push my limits to learn and grow
 - 📫 How to reach me:email @brianyehnda@gmail.com 
 - Whatsapp +254790365394
-- ⚡ Fun fact: I am an fine art artist and chess player
+- ⚡ Fun fact: I am a fine art artist and chess player
