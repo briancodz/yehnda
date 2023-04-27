@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Fullstack web development & Machine learning
-- 🌱 I’m currently learning machine learning models
-- 👯 I’m looking to collaborate on any projects that will push my limits to learn and grow
+- 🔭 I’m currently working on Front-end development 
+- 🌱 I’m currently learning React.Js and Next.Js
+- 👯 I’m actively looking for an internship/job opportunity to enhance my skills
 - 📫 How to reach me:email @brianyehnda@gmail.com 
-- Whatsapp +254790365394
-- ⚡ Fun fact: I am a fine art artist and chess player
