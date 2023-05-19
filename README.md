@@ -26,7 +26,7 @@
 </div>
  
 ### :man_technologist: About Me :
- I am a Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+ I am a Full-stack Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
  
  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
